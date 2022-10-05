@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "foam3": "github:kgrgreer/foam3",
+    "uglify-js": "^3.17.0"
+  },
+  "scripts": {
+      "build": "node node_modules/foam3/tools/genjs"
+  }
+}
